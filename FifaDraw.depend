@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1638803206 source:c:\users\kamil\documents\fifadraw\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<iomanip>
+	<windows.h>
+
