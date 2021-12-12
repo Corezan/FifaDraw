@@ -116,7 +116,7 @@ cout<< "Grupa B" <<endl<< endl;
                   Sleep(t);
 
 
-                  cout<< "Grupa D" <<endl<< endl;
+                  cout<< "Grupa E" <<endl<< endl;
 
          cout<<"1."<< DK [tab[6]] <<endl;
          Sleep (t);
